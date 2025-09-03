@@ -12,6 +12,4 @@ It helps network engineers keep switch configurations clean and track AP connect
 - Exports results to a structured **Excel (.xlsx)** file  
 - Logs all actions for troubleshooting  
 
----
 
-## 📂 Repository Structure
